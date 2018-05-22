@@ -1,0 +1,6 @@
+Ravi Tripathi book 100 5
+Ravi Tripathi pencil 10 2
+Ravi Tripathi pen 25 4
+Bhim Sen tshirt 500 20
+Bhim Sen phone 15000 3
+Bhim Sen ticket 8000 4
